@@ -62,7 +62,7 @@ def split_pdf(
     arg=None,
 ):
     """
-    拆分PDF的主函数.
+    split_pdf 拆分PDF.
 
     有三种拆分方式:
     1. 一共分成几块.
