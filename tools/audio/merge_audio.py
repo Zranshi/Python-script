@@ -1,3 +1,8 @@
+# -*- coding: UTF-8 -*-
+# @Time     : 2021/12/18 09:04
+# @Author   : Ranshi
+# @File     : merge_audio.py
+# @Doc      : 合并音频
 from moviepy.editor import AudioFileClip, concatenate_audioclips
 from utils.file import FilePath
 

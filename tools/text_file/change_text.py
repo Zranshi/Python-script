@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # -*- coding: UTF-8 -*-
 # @Time     : 2021/11/03 13:02
 # @Author   : Ranshi

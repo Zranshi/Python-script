@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # -*- coding: UTF-8 -*-
 # @Time     : 2021/11/24 17:30
 # @Author   : Ranshi
@@ -33,8 +32,6 @@ def split_image_into_equal_blocks(
     """
     img_path: FilePath = FilePath(img_path)
     img = Image.open(img_path)
-    # dir, file = os.path.split(img_path)
-    # file_name = os.path.splitext(file)[0]
     if target_path is None:
         target_path = img_path.owned_folder
 

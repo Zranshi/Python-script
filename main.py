@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/Users/rs/Code/Python/Python-script/.venv/bin/python3
 # -*- coding: UTF-8 -*-
 # @Time     : 2021/12/01 20:48
 # @Author   : Ranshi
